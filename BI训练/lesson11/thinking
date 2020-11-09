@@ -1,0 +1,7 @@
+ thinking1:
+ Graph Embedding是一种Embedding降维技术，可以有效的挖掘图网络中的节点特征表示。
+有三种主要方法：factorization methods （图因式分解机）；random walk techniques（随机游走）；deep learning（深度学习）。
+thinking2:
+Graph Embedding之后比较电影之间距离，针对某一个用户，根据用户看的电影与其他电影的距离进行推荐。
+thinking3:
+matplotlib.pyplot\seaborn\isnull().sum()\value_counts()
